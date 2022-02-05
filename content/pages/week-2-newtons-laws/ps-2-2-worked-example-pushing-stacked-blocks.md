@@ -8,7 +8,7 @@ uid: 00aef642-3d37-f1e0-8db3-ced31e4003c0
 
 « [Previous]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.1-worked-example-sliding-block) | [Next]({{< baseurl >}}/pages/week-2-newtons-laws/ps.2.3-window-washer-problem) »
 
-Consider two blocks that are resting one on top of the other. The lower block has mass \\(\\displaystyle m\_1\\) and is resting on a surface. The upper block has mass \\(\\displaystyle m\_2<m\_1\\) . Suppose the coefficient of static friction between the blocks is \\(\\displaystyle \\mu \_ s\\) . A horizontal force of magnitude \\(\\displaystyle F\\) is applied to block 1 as shhown.
+Consider two blocks that are resting one on top of the other. The lower block has mass \\(\\displaystyle m\_1\\) and is resting on a surface. The upper block has mass \\(\\displaystyle m\_2\<m\_1\\) . Suppose the coefficient of static friction between the blocks is \\(\\displaystyle \\mu \_ s\\) . A horizontal force of magnitude \\(\\displaystyle F\\) is applied to block 1 as shhown.
 
 ![A diagram of the two blocks being pushed.]({{< resource_file 9af7d45f-edb6-23ee-e81e-08b6e024979f >}})
 

@@ -14,7 +14,38 @@ Here we contrast the expressions of the angular momentum and kinetic energy for 
 
 ![A diagram showing the difference between fixed axis rotation and translational rotation.]({{< resource_file a2566fef-5a40-6990-630c-48f22203573b >}})
 
-|  {{< br >}}{{< br >}} **Angular Momentum** {{< br >}}{{< br >}} \\(\\vec{L}\_S = I\_S\\vec{\\omega}\\) {{< br >}}{{< br >}} **Kinetic Energy** {{< br >}}{{< br >}} \\(\\displaystyle K = \\frac{1}{2}\\;I\_S\\omega^2\\) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} **Angular Momentum** {{< br >}}{{< br >}} \\(\\vec{L}\_S = \\vec{r}\_s \\times m\\vec{v}\_{cm} + I\_{cm}\\vec{\\omega}\\) {{< br >}}{{< br >}} **Kinetic Energy** {{< br >}}{{< br >}} \\(\\displaystyle K = \\frac{1}{2}mv\_{cm}^2+\\frac{1}{2}\\;I\_{cm}\\omega^2\\) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+**Angular Momentum**
+
+\\(\\vec{L}\_S = I\_S\\vec{\\omega}\\)
+
+**Kinetic Energy**
+
+\\(\\displaystyle K = \\frac{1}{2}\\;I\_S\\omega^2\\)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Angular Momentum**
+
+\\(\\vec{L}\_S = \\vec{r}\_s \\times m\\vec{v}\_{cm} + I\_{cm}\\vec{\\omega}\\)
+
+**Kinetic Energy**
+
+\\(\\displaystyle K = \\frac{1}{2}mv\_{cm}^2+\\frac{1}{2}\\;I\_{cm}\\omega^2\\)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Note:**
 

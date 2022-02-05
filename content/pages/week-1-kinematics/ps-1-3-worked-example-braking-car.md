@@ -10,7 +10,18 @@ uid: c00c7194-c0ce-a091-fd9b-c5f3ba49fe85
 
 At time \\(\\displaystyle t=0 \\), a car moving along the +\\(\\displaystyle x \\)-axis passes through \\(\\displaystyle x=0 \\) with a constant velocity of magnitude \\(\\displaystyle v\_0 \\). At some time later, \\(\\displaystyle t\_1 \\), it starts to slow down. The acceleration of the car as a function of time is given by:
 
-| \\(\\displaystyle a(t) = \\left\\{ \\begin{array}{ll} 0 & \\quad 0 \\leq t \\leq t\_1 \\\\ -c(t-t\_1) & \\quad t\_1 \\lt t \\leq t\_2 \\end{array} \\right. \\) |   
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+\\(\\displaystyle a(t) = \\left\\{ \\begin{array}{ll} 0 & \\quad 0 \\leq t \\leq t\_1 \\\\ -c(t-t\_1) & \\quad t\_1 \\lt t \\leq t\_2 \\end{array} \\right. \\)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 where \\(\\displaystyle c \\) is a positive constants in SI units, and \\(\\displaystyle t\_1 \\lt t \\leq t\_2 \\) is the given time interval for which the car is slowing down. The goal of the problem is to find the car's position as a function of time between \\(\\displaystyle t\_{1} \\lt t \\lt t\_2 \\). Express your answer in terms of v\_0 for \\(\\displaystyle v\_0 \\), t\_1 for \\(\\displaystyle t\_1 \\), t\_2 for \\(\\displaystyle t\_2 \\), and \\(\\displaystyle c \\) as needed.
 

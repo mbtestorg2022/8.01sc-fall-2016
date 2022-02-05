@@ -10,7 +10,18 @@ uid: 78b6dfdb-1434-37ce-0d07-1e7e7521a24e
 
 You are in a car standing by a traffic light and at time \\(\\displaystyle t=0 \\) the light turns green. You start to accelerate during the first \\(\\displaystyle t\_1 \\) seconds so that the acceleration of your car is given by:
 
-| \\(\\displaystyle a\_1(t) = \\left\\{ \\begin{array}{ll} b\_1 & \\quad 0 \\leq t \\leq t\_1 \\\\ 0 & \\quad t\_1 < t \\leq t\_2 \\end{array} \\right. \\) |   
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+\\(\\displaystyle a\_1(t) = \\left\\{ \\begin{array}{ll} b\_1 & \\quad 0 \\leq t \\leq t\_1 \\\\ 0 & \\quad t\_1 \< t \\leq t\_2 \\end{array} \\right. \\)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 where \\(\\displaystyle b\_1 \\) is a positive constant.
 
