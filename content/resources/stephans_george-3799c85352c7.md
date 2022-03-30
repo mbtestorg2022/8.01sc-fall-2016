@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 63b200b4-6b93-d532-b387-9a3d37067265
 resourcetype: Image
 title: stephans_george.3799c85352c7.jpg
 uid: ae1b1b3a-d06a-6ac3-b234-2627de6d577f

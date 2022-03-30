@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 0f1188dc-261a-bcd9-fb9a-a4c677f9db3a
 resourcetype: Image
 title: ParticleMovingBetweenPlates_intro.svg
 uid: 167cca16-fad6-4cfe-5da3-57fbbe5dc573

@@ -23,7 +23,7 @@ Problem Solving: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-This course has no prerequisites. [_18.01SC Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010/) is a corequisite.
+This course has no prerequisites. [_18.01SC Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010) is a corequisite.
 
 Course Overview
 ---------------

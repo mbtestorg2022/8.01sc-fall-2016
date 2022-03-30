@@ -4,6 +4,7 @@ description: This file contains information regarding classical mechanics proble
   set 6.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-01sc-classical-mechanics-fall-2016/44b46fb9ae75796759884a9a7f7bd167_MIT8_01F16_pset6.pdf
 file_type: application/pdf
+parent_uid: 14fc866f-f60f-c69f-19eb-4338bbc87675
 resourcetype: Document
 title: 8.01 Classical Mechanics Pset 6
 uid: 44b46fb9-ae75-7967-5988-4a9a7f7bd167

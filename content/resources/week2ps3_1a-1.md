@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 00aef642-3d37-f1e0-8db3-ced31e4003c0
 resourcetype: Image
 title: week2ps3_1a.svg
 uid: 9af7d45f-edb6-23ee-e81e-08b6e024979f

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b3f85755-e9b8-b768-41cb-cdf53171cfc6
 resourcetype: Image
 title: ls12_summary.svg
 uid: a2566fef-5a40-6990-630c-48f22203573b
